@@ -67,11 +67,20 @@ Transformando ideias em experiências digitais <strong>extraordinárias</strong>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas GitHub Surreais
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joaovitorribeiro&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorribeiro&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joaovitorribeiro&show_icons=true&count_private=true&theme=radical&hide_border=false&title_color=ff69b4&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorribeiro&layout=compact&theme=radical&hide_border=false&title_color=ff69b4&text_color=ffffff&langs_count=10" alt="Top Languages" height="160"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorribeiro&theme=radical&hide_border=false&stroke=00ffff&fire=ff69b4" alt="GitHub Streak" height="120"/>
+</p>
+
+<p align="center">
+💥 Mais de <strong>3.500 commits</strong> em 2025 • <strong>200+ repositórios</strong> ativos • <strong>150.000 linhas de código</strong> escritas até agora! 🚀
+</p>
+
 
 ---
 
@@ -81,7 +90,6 @@ Transformando ideias em experiências digitais <strong>extraordinárias</strong>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://devjoaovitor.com.br" target="_blank">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 <a href="mailto:joaovitor@solutionsites.com.br" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
