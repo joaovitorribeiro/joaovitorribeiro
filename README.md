@@ -23,7 +23,7 @@ Transformando ideias em experiências digitais <strong>extraordinárias</strong>
 
 ---
 
-## 🖥️ Habilidades Surreais
+## 🖥️ Habilidades 
 
 ### 🔹 Linguagens & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&animation=glow)
